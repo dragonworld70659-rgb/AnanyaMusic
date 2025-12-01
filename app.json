@@ -102,6 +102,11 @@
       "value": "https://files.catbox.moe/stf19c.jpg",
       "required": false
     },
+    "START_VIDEO_URL": {
+      "description": "Show Start panel Start video",
+      "value": ""
+      "required": true
+    },
     "ANANYA_REPO": {
       "description": "Vedio link appears with entertainment button",
       "value": "https://files.catbox.moe/o6me7d.mp4",
